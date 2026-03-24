@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Black or White",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-03-24T13:00:19.731908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black or White",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Black_or_White_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Or White (Single Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Black_Or_White_(Single_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Or White (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Black_Or_White_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Black Or White",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/04_Black_Or_White_Anvil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black or White",
+      "artist": "Yunosuke",
+      "has_synced": true,
+      "path": "select/05_Black_or_White_Yunosuke.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black or White -Intro-",
+      "artist": "Yunosuke",
+      "has_synced": true,
+      "path": "select/06_Black_or_White_-Intro-_Yunosuke.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black or White",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Black_or_White_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black or White",
+      "artist": "Steve Harley & Cockney Rebel",
+      "has_synced": false,
+      "path": "select/08_Black_or_White_Steve_Harley_&_Cockney_Rebel.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Black Or White",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_Black_Or_White_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Or White",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Black_Or_White_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Or White",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Black_Or_White_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Or White",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Black_Or_White_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black or White (Single Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Black_or_White_(Single_Version)_Michael_Jackson.lrc"
+    }
+  ]
+}
